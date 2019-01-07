@@ -1,0 +1,30 @@
+html {
+  font-size: 10px; /* px = pixels, default = 10px */
+  font-family: placeholder:'Lora', serif;
+  background-color: #FDF3E7;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 0 20px 20px 20px;
+  border: 2px solid grey;
+}
+h3 {
+  margin: 0;
+  padding: 20px 0;
+  color: #FDF3E7;
+  text-shadow: 2px 2px 1px black;
+  font-size: 60px;
+  text-align: center;
+}
+p,li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1'
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
